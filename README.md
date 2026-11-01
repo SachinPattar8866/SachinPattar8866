@@ -2,23 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sachin+Pattar+%F0%9F%91%8B;Full+Stack+%7C+Backend+%7C+AI+Apps;Open+to+Full-Time+SDE+Roles" alt="Typing SVG" />
 
-<p>
-  <img src="https://img.shields.io/badge/B.E.-Information%20Science%20%26%20Engineering-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA043?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8957E5&style=flat-square" />
-</p>
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Recent **B.E. graduate in Information Science & Engineering (2026)**
-- 💼 Former **Full Stack Development Intern** at SuprMentr Technologies
-- ⚙️ I build end-to-end apps with **Java, Spring Boot, React**, and AI integrations
-- 🧩 Solved **190+ DSA problems** on LeetCode
-- 🔍 Currently looking for **full-time SDE roles**
+I'm a recent Information Science & Engineering graduate (B.E., 2026) who enjoys building full-stack and backend applications, especially ones that use AI. I work mainly with Java, Spring Boot, and React, and I recently interned as a Full Stack Developer at SuprMentr Technologies. I'm currently looking for a full-time SDE role where I can keep building and learning.
 
 ---
 
@@ -34,28 +24,15 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔀 [ModelFlux](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) — Resilient Multi-Provider AI Chat Platform
-Routes chat requests across **Groq, Gemini, and OpenRouter** with automatic failover, using **Redis** rate-limit tracking and **Resilience4j** circuit breakers. Supports real-time token streaming over **WebSocket/STOMP** with mid-stream failover.
-`Spring Boot` `React` `PostgreSQL` `Redis` `Docker` `JWT`
-
-### 🧠 [NeuroSense](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) — AI-Powered Epileptic Seizure Prediction
-Predicts seizures from EEG spectrograms using **CNN** and **Hybrid CNN-BiLSTM** models, with live confidence visualization and PDF report generation.
-`Python` `Flask` `React` `CNN` `BiLSTM`
-
-### 🧞 [JobGenie AI](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) — AI Career Assistant
-Career platform for resume optimization and job matching, built with a **React** frontend and **Go (Gin)** backend on **Supabase PostgreSQL**. *(In progress)*
-`React` `Go` `Supabase`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/2F81F7/YOUR_GITHUB_USERNAME" alt="Contribution Graph" />
 
 </div>
 
@@ -69,7 +46,5 @@ Career platform for resume optimization and job matching, built with a **React**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pattarsachin10@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Sachin_Pattar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-*Thanks for stopping by! ⭐*
 
 </div>
