@@ -11,13 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a recent Information Science & Engineering graduate (B.E., 2026) who enjoys building full-stack and backend applications, especially those involving AI.
-
-- 🎓 B.E. in Information Science & Engineering (2026)
-- 💼 Former Full Stack Developer Intern at SuprMentr Technologies
-- 💻 Interested in Java, Spring Boot, React, Backend Development and AI
-- 🚀 Building projects and exploring new technologies
-- 🎯 Currently looking for full-time Software Development Engineer (SDE) opportunities
+I'm a 2026 Information Science & Engineering graduate passionate about building scalable full-stack applications, backend systems, and AI-powered solutions. I primarily work with Java, Spring Boot, React, and modern web technologies, and enjoy turning ideas into practical software.
 
 ---
 
